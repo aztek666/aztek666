@@ -79,12 +79,6 @@ console.log(Hi + ' ' + 'Hello');
 [<img align="left" alt="Storarry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Storarry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<div align="left">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aztek666&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=MailoDev&show_icons=true&title_color=fff&icon_color=6C63FF&text_color=9f9f9f&bg_color=151515" />
-</div>
-
-
 <br>
 <br>
 <br>
