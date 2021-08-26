@@ -17,7 +17,7 @@ console.log(Hi + ' ' + 'Hello');
 > I'm a dev, focused on VueJS, ReactJS, TypeScript and React-native, although I'm also a pentester.
 
 
-- 🔭 I’m currently working on MyDrugs.to project!
+- 🔭 I’m currently working on Discord Theme!
 - 🌱 I’m currently learning TypeScript and Neuroscience
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
